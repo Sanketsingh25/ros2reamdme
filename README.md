@@ -213,6 +213,7 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/ezw/usr/lib
 ```bash
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/ezw/usr/lib
 ros2 launch swd_ros2_controllers swd_diff_drive_controller.launch.py
+```
 
 ### B- On your own IPC
 
